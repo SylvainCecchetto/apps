@@ -47,7 +47,7 @@
     },
     "abantecart": {
         "branch": "master",
-        "level": 0,
+        "level": 2,
         "revision": "5afd23e5241f4eafb59a76d315e7d202535dd793",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/abantecart_ynh"
@@ -520,7 +520,7 @@
     },
     "limesurvey": {
         "branch": "master",
-        "level": 7,
+        "level": 0,
         "revision": "c927cce4e76c4bd935e71fca2c11d03524bea332",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/limesurvey_ynh"
@@ -574,7 +574,7 @@
     },
     "mattermost": {
         "branch": "master",
-        "level": 3,
+        "level": 0,
         "revision": "8295da93cd36c66bf27e9b0082514f1dce255ba5",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/mattermost_ynh"
@@ -600,7 +600,7 @@
     },
     "minchat": {
         "branch": "master",
-        "level": 3,
+        "level": 1,
         "revision": "b77ccdcfba70d7279cc01d3c7847144338ee8a23",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/minchat_ynh"
@@ -944,7 +944,7 @@
     },
     "shuri": {
         "branch": "master",
-        "level": 0,
+        "level": 2,
         "revision": "4865dc9c0a67f08806c0a0e5053f62c989b24745",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/shuri_ynh"
@@ -1093,6 +1093,7 @@
     },
     "weblate": {
         "branch": "master",
+        "level": 0,
         "revision": "9da1fa4979079e4052175f1fd52d518ecd2c5759",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/weblate_ynh"
@@ -1156,7 +1157,7 @@
     },
     "zeronet": {
         "branch": "master",
-        "level": 0,
+        "level": 3,
         "revision": "3d72e90da6cbb4ff1bc57d00089671949a20ccea",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/zeronet_ynh"
